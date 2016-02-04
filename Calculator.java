@@ -24,7 +24,7 @@ public class Calculator extends JFrame implements ActionListener{
     public Calculator(){
         
         
-        System.out.println("o tsotrash einai vlias");     // <---- useful edit
+        System.out.println("o tsotrash einai vlias");     // <---- useful edit aliubnwruigeethbeatgh
         
         
         //DHMIOURGIA TOU FRAME
